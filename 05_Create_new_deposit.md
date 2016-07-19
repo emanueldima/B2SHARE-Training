@@ -184,5 +184,3 @@ In short, without explanation:
 }
 ```
 A persistent identifier (`PID` field) has been automatically generated and added to the metadata. Furthermore, a `checksum` has been calculated and the uploader's email address added in the `uploaded_by` field.
-
-Unfortunately, some of the fields are empty. During the commit step, these fields were not added and therefore missing. It is highly recommended to complete all fields during this step in order to increase the discoverability, authenticity and reusability of the dataset.
